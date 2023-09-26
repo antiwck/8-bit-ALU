@@ -25,10 +25,17 @@ The ALU consists of 20 operations which includes:-
 19. Logical XNOR
 20. Comparator
 
+Computation: -
+A : 11110110
+B : 00001101
+S : 00000 to 10011
+
+<br />
+1. Addition
 <br />
 <p align="center">
   <img src="Sources/1. Addition.jpg"><br />
-  Addition
+  Addition computation
 </p>
 <br />
 First number  : 00111000 (56)<br />
@@ -36,9 +43,11 @@ Second number : 00011100 (28)<br />
 Result        :         <br />
 
 <br />
+2. Subtraction
+<br />
 <p align="center">
   <img src="Sources/2. Subtraction.jpg"><br />
-  Subtraction
+  Subtraction computation
 </p>
 <br />
 First number  : 00111000 (56)<br />
