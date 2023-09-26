@@ -219,7 +219,7 @@ Result  : 00000100 (4)<br />
 20. Comparator
 <br />
 <p align="center">
-  <img src="Sources/20. Comparator.jog" width="400"><br />
+  <img src="Sources/20. Comparator.jpg" width="400"><br />
   Comparator computation
 </p>
 Result  : 01 (A > B)<br />
