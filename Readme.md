@@ -37,7 +37,7 @@ Result        :         <br />
 
 <br />
 <p align="center">
-  <img src="Sources/2. Subtraction"><br />
+  <img src="Sources/2. Subtraction.jpg"><br />
   Subtraction
 </p>
 <br />
