@@ -37,9 +37,9 @@ S : 00000 to 10011
   <img src="Sources/1. Addition.jpg"><br />
   Addition computation
 </p>
-Sum &nbsp;&nbsp;: 00000011 (3)<br />
-Carry &nbsp;&nbsp;: 1xxxxxxxx (256) <br />
-Result &nbsp;&nbsp;: 259<br />
+Sum    : 00000011 (3)<br />
+Carry  : 1xxxxxxxx (256) <br />
+Result : 259<br />
 
 <br />
 2. Subtraction
@@ -48,6 +48,6 @@ Result &nbsp;&nbsp;: 259<br />
   <img src="Sources/2. Subtraction.jpg"><br />
   Subtraction computation
 </p>
-Difference &nbsp;&nbsp;: 11101001 (233)<br />
-Borrow &nbsp;&nbsp;: 0xxxxxxxx (0)<br />
-Result &nbsp;&nbsp;: 233<br />
+Difference  : 11101001 (233)<br />
+Borrow      : 0xxxxxxxx (0)<br />
+Result      : 233<br />
