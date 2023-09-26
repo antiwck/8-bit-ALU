@@ -34,7 +34,7 @@ S : 00000 to 10011
 1. Addition
 <br />
 <p align="center">
-  <img src="Sources/1. Addition.jpg" width="800"><br />
+  <img src="Sources/1. Addition.jpg" width="500"><br />
   Addition computation
 </p>
 Sum    : 00000011 (3)<br />
@@ -45,7 +45,7 @@ Result : 259<br />
 2. Subtraction
 <br />
 <p align="center">
-  <img src="Sources/2. Subtraction.jpg" width="800"><br />
+  <img src="Sources/2. Subtraction.jpg" width="500"><br />
   Subtraction computation
 </p>
 Difference  : 11101001 (233)<br />
