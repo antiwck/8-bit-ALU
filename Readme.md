@@ -3,7 +3,7 @@
 
 The program is compiled in Intel Quartus Prime and run under the testbench to perform the functional computation.
 The 8-bit unsigned binary ALU takes two 8-bit number in binary and compute the result.
-The ALU consists of 20 operations which includes:-
+The ALU consists of 20 operations which are:-
 1. Addtion
 2. Subtraction
 3. Multiplication
@@ -26,8 +26,8 @@ The ALU consists of 20 operations which includes:-
 20. Comparator
 
 Computation: -
-A : 11110110
-B : 00001101
+A : 11110110 (246)
+B : 00001101 (13)
 S : 00000 to 10011
 
 <br />
@@ -37,10 +37,9 @@ S : 00000 to 10011
   <img src="Sources/1. Addition.jpg"><br />
   Addition computation
 </p>
-<br />
-First number  : 00111000 (56)<br />
-Second number : 00011100 (28)<br />
-Result        :         <br />
+Sum &nbsp;: 00000011 (3)<br />
+Carry &nbsp;: 1xxxxxxxx (256) <br />
+Result &nbsp;: 259<br />
 
 <br />
 2. Subtraction
@@ -49,7 +48,6 @@ Result        :         <br />
   <img src="Sources/2. Subtraction.jpg"><br />
   Subtraction computation
 </p>
-<br />
-First number  : 00111000 (56)<br />
-Second number : 00011100 (28)<br />
-Result        :         <br />
+Difference &nbsp;: 11101001 (233)<br />
+Borrow &nbsp;: 0xxxxxxxx (0)<br />
+Result &nbsp;: 233<br />
